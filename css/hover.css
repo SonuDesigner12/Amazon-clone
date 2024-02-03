@@ -1,0 +1,28 @@
+.logo img:hover {
+    border: 2px solid white;
+    
+}
+.map:hover , .account:hover , .order-view:hover , .addToCart:hover {
+    border: 2px solid white;
+    padding: 14px 0px;
+   
+}
+.menu a:hover {
+    border: 2px solid white;
+}
+
+/* product */
+.product-shop a:hover {
+    text-decoration: underline;
+}
+/* sign in section*/
+/* .sign-in p:nth-child(3):hover {
+    text-decoration: underline;
+} */
+
+
+/* footer */
+.footer-link a:hover {
+    text-decoration: underline;
+}
+

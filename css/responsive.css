@@ -1,0 +1,143 @@
+@media screen and (max-width: 1024px) {
+    .product-serch input {
+        width: 30vw;
+    }
+    /* product loist */
+    .product {
+        width: 30%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .addToCart p {
+        display: none;
+    }
+
+    /* product loist */
+    .product {
+        width: 45%;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .nav {
+        font-size: 12px;
+    }
+    .nav .fa-location-dot {
+        padding-bottom: 3px;
+    }
+    .nav span {
+        font-size: 15px;
+    }
+    .map {
+        gap: 0;
+    }
+    .logo img {
+        width: 80px;
+    }
+    
+    .product-serch {
+        display: none;
+    }
+    .account {
+        margin-left: 11px;
+    }
+    /* menu */
+    .menu a:first-child {
+        padding-left: 0;
+    }
+
+    /* menu bar */
+    .menu {
+        gap: 8px;
+        padding-left: 10px;
+        font-size: 14px;
+    }
+    
+    /* slider */
+    .slider {
+        height: 40%;
+    }
+
+    /* product loist */
+    .product {
+        width: 80%;
+    }
+    .product-list {
+        margin-top: -25px;
+    }
+
+    /* footer */
+    .footer {
+        width: 42%;
+    }
+
+    .footer-end p {
+        word-spacing: 0px;
+    letter-spacing: 0px;
+    }
+    
+
+
+}
+
+
+@media screen and (max-width: 376px) {
+    .nav span {
+        font-size: 12px;
+    }
+    .addToCart .fa-cart-shopping {
+        font-size: 20px;
+    }
+    .menu a {
+        font-size: 12px;
+    }
+    .menu .fa-bars {
+        font-size: 15px;
+    }
+    .menu a:first-child {
+        font-size: 13px;
+    }
+
+    /* slider*/
+    .slider {
+        height: 38%;
+    }
+
+    /* product loist */
+    .product {
+        width: 90%;
+    }
+
+    /* footer */
+    
+
+
+}
+
+@media screen and (max-width: 320px) {
+    .nav .logo img {
+        width: 60px;
+    }
+    .menu a:nth-child(4) {
+        display: none;
+    }
+
+    /* slider */
+    .slider {
+        height: 35%;
+    }
+
+    /* product loist */
+    .product {
+        width: 100%;
+    }
+
+    
+
+
+}
+
+
